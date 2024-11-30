@@ -1,6 +1,6 @@
-# Journal of Building Open Source Capacity in Academia
+# Journal of Open Source Capacity in Academia
 
-Welcome to the **Journal of Building Open Source Capacity in Academia**, a collaborative and multidisciplinary platform for sharing and advancing open-source initiatives in academic institutions. This repository serves as both a **conference journal** and a **presentation tool** for panels and discussions aimed at fostering cross-disciplinary collaboration and innovation.
+Welcome to the **Journal of Open Source Capacity in Academia**, a collaborative and multidisciplinary platform for sharing and advancing open-source initiatives in academic institutions. This repository serves as both a **conference journal** and a **presentation tool** for panels and discussions aimed at fostering cross-disciplinary collaboration and innovation.
 
 **Website**: [Journal of Open Source Capacity in Academia](https://kefortney.github.io/Journal_of_Open_Source_Capacity_in_Academia/)  
 **Organizers**:  
