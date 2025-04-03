@@ -1,11 +1,9 @@
-# Journal of Open Source Capacity in Academia
+# Prototype Conference Journal
+Welcome to the **Conference Journal**, a prototype of a collaborative and multidisciplinary platform for submitting presentations and publishing conference proceedings. This repository serves as both a **conference journal** and a **presentation tool** for panels and discussions aimed at fostering cross-disciplinary collaboration and innovation.
 
-Welcome to the **Journal of Open Source Capacity in Academia**, a collaborative and multidisciplinary platform for sharing and advancing open-source initiatives in academic institutions. This repository serves as both a **conference journal** and a **presentation tool** for panels and discussions aimed at fostering cross-disciplinary collaboration and innovation.
-
-**Website**: [Journal of Open Source Capacity in Academia](https://kefortney.github.io/Journal_of_Open_Source_Capacity_in_Academia/)  
+**Website**: [Conference Journal](https://kefortney.github.io/Prototype_Conference_Journal/)  
 **Organizers**:  
-- **Kendall Fortney**, University of Vermont  
-- **CURIOSS Group**: [Clare Dillon](https://curioss.org/team), [Richard Littauer](https://curioss.org/team)
+- **Kendall Fortney**, University of Vermont
 
 ---
 
