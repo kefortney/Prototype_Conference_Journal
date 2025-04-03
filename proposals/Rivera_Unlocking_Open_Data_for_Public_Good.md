@@ -44,7 +44,7 @@ Interactive Discussion
 
 * Facilitating cross-sector networking opportunities for attendees interested in collaboration.
 
-References
+## References
 
 Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018.
 
