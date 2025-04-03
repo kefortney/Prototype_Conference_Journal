@@ -21,7 +21,7 @@ We welcome panel submissions in the form of:
 
 ### Steps to Submit a Panel
 1. **Fork this repository** and create a branch for your submission.
-2. Add your panel content in the `_panels/` directory, following the [submission template](#submission-template).
+2. Add your panel content in the `proposals` directory, following the [submission template](#submission-template).
 3. Open a **pull request** with your panel title and description.
 4. The organizing team will review your submission. If approved, the pull request will be merged.
 5. Your submission will be included in the journal and converted into a presentation using [RISE](https://rise.readthedocs.io/).
