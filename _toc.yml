@@ -3,7 +3,12 @@
 
 format: jb-book
 root: index
-chapters:
-- file: content/chap1
-- file: content/chap2
-- file: proposals/Rivera_Unlocking_Open_Data_for_Public_Good
+parts:
+  - caption: Accepted Proposals
+    numbered: True  # Only applies to chapters in Part 1.
+    chapters:
+    - file: content/chap1
+    - file: content/chap2
+  - caption: Proposals under Review
+    chapters:
+    - file: proposals/Rivera_Unlocking_Open_Data_for_Public_Good
