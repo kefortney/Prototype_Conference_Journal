@@ -4,11 +4,8 @@
 format: jb-book
 root: index
 chapters:
-parts:
-  - caption: Open Science Morning Track
-    chapters:
-    - file: content/chap1
-    - file: content/chap2
-  - caption: Proposed Talks
-    chapters:
-    - file: proposals/Rivera_Unlocking_Open_Data_for_Public_Good
+- caption: Open Science Morning Track
+- file: content/chap1
+- file: content/chap2
+- caption: Proposed Talks
+- file: proposals/Rivera_Unlocking_Open_Data_for_Public_Good
